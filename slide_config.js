@@ -1,10 +1,10 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'NBI Opendata',
-    subtitle: '',
+    title: 'videbligo',
+    subtitle: 'Visualisierung f&uuml;r daten.berlin.de',
     eventInfo: {
-      title: 'Interne Meilensteinpräsentation',
+      title: 'Meilensteinpräsentation I',
       date: '26.11.2014'
     },
     useBuilds: false, // Default: true. False will turn off slide animation builds.
