@@ -1,7 +1,7 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'videbligo',
+    title: 'videbligo-berlin',
     subtitle: 'Visualisierung f&uuml;r daten.berlin.de',
     eventInfo: {
       title: 'Meilensteinpräsentation I',
