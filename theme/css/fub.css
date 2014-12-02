@@ -476,7 +476,7 @@ ul { /*ul:not(.show) li ul*/
 /* line 300, ../scss/default.scss */
 ul li {
   /*margin-bottom: 0.5em;*/
-  line-height: 1.75em;
+  line-height: 1.5em;
 }
 /* line 303, ../scss/default.scss */
 ul li ul { /* ul:not(.show) li ul li ul  */
